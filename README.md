@@ -1,5 +1,7 @@
 Date() project
 
+Prior to my backcountry skiing trip to Argentina, I created a countdown project to practice using the Date() object in JavaScript. Below are the steps I took to implement the functionality of the countdown timer.
+
 Steps for creating a countdown -
 
 - create an array with the months of the year
