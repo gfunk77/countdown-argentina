@@ -33,7 +33,7 @@ const items = document.querySelectorAll(".countdown-format h4");
 
 // store countdown end date in a variable
 // year, month, date, hour, minute, seconds
-let futureDate = new Date(2022, 7, 11, 12, 47, 0);
+let futureDate = new Date(2023, 7, 11, 12, 47, 0);
 
 // store each of those individual values into variables
 
